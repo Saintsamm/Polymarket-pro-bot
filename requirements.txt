@@ -1,0 +1,7 @@
+anthropic
+py-clob-client
+requests
+schedule 
+pandas
+numpy
+python-telegram-bot==13.15
